@@ -5,53 +5,50 @@ namespace Pasta_main
 {
     class MesaBar
     {
-
-        float somaBebeuQnts;
+        int somaBebeuQnts;
         float valorTotalMesa;
-        float quantidadeCerveja;
-        float valorCerveja;
+        float quantidadeBebida;
+        float valorBebida;
 
-        public MesaBar(float q, float v){
-        quantidadeCerveja = q;
-        valorCerveja = v;
-        valorTotalMesa = quantidadeCerveja * valorCerveja;
+        // Construtor MesaBar
+        public MesaBar(float q, float v)
+        {
+            quantidadeBebida = q;
+            valorBebida = v;
+            valorTotalMesa = quantidadeBebida * valorBebida;
         }
 
-        List<Player> lp = new List<Player>();
+        List<Pessoa> lp = new List<Pessoa>();
 
-        public void adicionarPlayer(Player p){
-        lp.Add(p);
-   
+        // Função que adiciona a Pessoa na Lista de Pessoas
+        public void adicionarPessoa(Pessoa p)
+        {
+            lp.Add(p);
         }
 
-        public float somarproporcao() {
+        // Função que calcula e retorna a proporção da quantidade bebida
+        public int somarProporcao()
+        {
             somaBebeuQnts = 0;
-            foreach (Player p in lp){
-                p.getBebeuQnts();  
-                somaBebeuQnts = somaBebeuQnts + p.getBebeuQnts();
+            foreach (Pessoa p in lp)
+            {
+                p.obterBebeuQnts();
+                somaBebeuQnts = somaBebeuQnts + p.obterBebeuQnts();
             }
             return somaBebeuQnts;
         }
- 
-        public void contaMesa(){
-            somarproporcao();
-            foreach (Player p in lp){
-                p.getNome();
-                p.getBebeuQnts();    
-                Console.WriteLine("O cachaceiro {0} tem que pagar: " + ( valorTotalMesa / somarproporcao()) * p.getBebeuQnts(), p.getNome());
+
+        // Função que retorna a quantidade que cada Pessoa deve Pagar
+        public void contaMesa()
+        {
+            somarProporcao();
+            foreach (Pessoa p in lp)
+            {
+                p.obterNome();
+                p.obterBebeuQnts();
+                double finaal = (valorTotalMesa / somarProporcao()) * p.obterBebeuQnts();
+                Console.WriteLine("O cachaceiro {0} tem que pagar: " + finaal.ToString("F"), p.obterNome());
             }
-        
         }
-
-
-
-
-
-
-
-
-
-
-
     }
-}   
+}
