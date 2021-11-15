@@ -1,0 +1,16 @@
+C:\Users\ASUS\Desktop\coding\projeto app rachar conta\Pasta main\bin\Debug\net5.0\Pasta main.exe
+C:\Users\ASUS\Desktop\coding\projeto app rachar conta\Pasta main\bin\Debug\net5.0\Pasta main.deps.json
+C:\Users\ASUS\Desktop\coding\projeto app rachar conta\Pasta main\bin\Debug\net5.0\Pasta main.runtimeconfig.json
+C:\Users\ASUS\Desktop\coding\projeto app rachar conta\Pasta main\bin\Debug\net5.0\Pasta main.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\coding\projeto app rachar conta\Pasta main\bin\Debug\net5.0\Pasta main.dll
+C:\Users\ASUS\Desktop\coding\projeto app rachar conta\Pasta main\bin\Debug\net5.0\ref\Pasta main.dll
+C:\Users\ASUS\Desktop\coding\projeto app rachar conta\Pasta main\bin\Debug\net5.0\Pasta main.pdb
+C:\Users\ASUS\Desktop\coding\projeto app rachar conta\Pasta main\obj\Debug\net5.0\Pasta main.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\coding\projeto app rachar conta\Pasta main\obj\Debug\net5.0\Pasta main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\coding\projeto app rachar conta\Pasta main\obj\Debug\net5.0\Pasta main.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\coding\projeto app rachar conta\Pasta main\obj\Debug\net5.0\Pasta main.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\coding\projeto app rachar conta\Pasta main\obj\Debug\net5.0\Pasta main.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\coding\projeto app rachar conta\Pasta main\obj\Debug\net5.0\Pasta main.dll
+C:\Users\ASUS\Desktop\coding\projeto app rachar conta\Pasta main\obj\Debug\net5.0\ref\Pasta main.dll
+C:\Users\ASUS\Desktop\coding\projeto app rachar conta\Pasta main\obj\Debug\net5.0\Pasta main.pdb
+C:\Users\ASUS\Desktop\coding\projeto app rachar conta\Pasta main\obj\Debug\net5.0\Pasta main.genruntimeconfig.cache
