@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\luizl\\.nuget\\packages\\": {}
+    "C:\\Users\\ASUS\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\luizl\\Projetos\\trabalho1-POO\\Pasta main.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\coding\\projetos\\Rachar conta\\Pasta main.csproj",
       "projectName": "Pasta main",
-      "projectPath": "C:\\Users\\luizl\\Projetos\\trabalho1-POO\\Pasta main.csproj",
-      "packagesPath": "C:\\Users\\luizl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\luizl\\Projetos\\trabalho1-POO\\obj\\",
+      "projectPath": "C:\\Users\\ASUS\\Desktop\\coding\\projetos\\Rachar conta\\Pasta main.csproj",
+      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ASUS\\Desktop\\coding\\projetos\\Rachar conta\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\luizl\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

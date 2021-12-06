@@ -3,31 +3,17 @@ using System.Collections.Generic;
 
 namespace Pasta_main
 {
-    class MesaBar
+    class ContaProporcao : Conta
     {
-        int somaBebeuQnts;
-        float valorTotalMesa;
-        float quantidadeBebida;
-        float valorBebida;
-
-        // Construtor MesaBar
-        public MesaBar(float q, float v)
+        public ContaProporcao (float q, float v)
         {
             quantidadeBebida = q;
             valorBebida = v;
             valorTotalMesa = quantidadeBebida * valorBebida;
-        }
-
-        List<Pessoa> lp = new List<Pessoa>();
-
-        // Função que adiciona a Pessoa na Lista de Pessoas
-        public void adicionarPessoa(Pessoa p)
-        {
-            lp.Add(p);
-        }
-
+        } 
+        
         // Função que calcula e retorna a proporção da quantidade bebida
-        public int somarProporcao()
+        private int somarProporcao()
         {
             somaBebeuQnts = 0;
             foreach (Pessoa p in lp)
@@ -39,13 +25,10 @@ namespace Pasta_main
         }
 
         // Função que retorna a quantidade que cada Pessoa deve Pagar
-        public void contaMesa()
+        public void contaProporcional()
         {
-            somarProporcao();
             foreach (Pessoa p in lp)
             {
-                p.obterNome();
-                p.obterBebeuQnts();
                 double finaal = (valorTotalMesa / somarProporcao()) * p.obterBebeuQnts();
                 Console.WriteLine("O cachaceiro {0} tem que pagar: " + finaal.ToString("F"), p.obterNome());
             }
