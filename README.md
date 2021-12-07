@@ -8,5 +8,4 @@ O Objetivo desse programa é calcular a proporção de uma conta de bar e exibir
 
 ## Desenvolvedores
 
-Luiz Libardi
-Marco Polo
+Luiz Libardi e Marco Polo
