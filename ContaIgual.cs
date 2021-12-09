@@ -1,16 +1,21 @@
 using System;
 using System.Collections.Generic;
+using System.IO;
 
 namespace Pasta_main
 {
     class ContaIgual : Conta
     {
+        TextWriter sw = new StreamWriter("C:\\Test.txt", true);
         int somapessoas;
-        public ContaIgual (float q, float v)
+        public ContaIgual (float q, float v, string n)
         {
             quantidadeBebida = q;
             valorBebida = v;
+            nomeBar= n;
             valorTotalMesa = quantidadeBebida * valorBebida;
+            sw.WriteLine(nomeBar + valorBebida);
+            sw.Close();
         } 
         public int somarPessoas()
         {

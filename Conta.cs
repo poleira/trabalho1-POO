@@ -7,6 +7,7 @@ class Conta{
         public float valorTotalMesa;
         public float quantidadeBebida;
         public float valorBebida;
+        public string nomeBar;
          
         public List<Pessoa> lp = new List<Pessoa>();
 

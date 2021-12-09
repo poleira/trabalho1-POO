@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 
 namespace Pasta_main
 {
@@ -8,7 +9,7 @@ namespace Pasta_main
         {
            
             // Criando a Conta
-            ContaIgual conta1 = new ContaIgual (10, 10);
+            ContaIgual conta1 = new ContaIgual (10, 10, "buana");
 
             // Criando os bebuns
             Pessoa player1 = new Pessoa ("gustavo",10);
@@ -28,7 +29,7 @@ namespace Pasta_main
             //----------------------------------------------------------
 
             // Criando a Conta2
-            ContaProporcao conta2 = new ContaProporcao (10, 10);
+            ContaProporcao conta2 = new ContaProporcao (10, 10, "Hebe");
 
             // Criando os bebuns
             Pessoa player5 = new Pessoa ("gustavo",10);
@@ -45,6 +46,8 @@ namespace Pasta_main
             // Retornando quanto cada um deve pagar
             conta2.contaProporcional();
 
+            
+    
             
         }
     }

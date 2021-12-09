@@ -1,15 +1,20 @@
 using System;
 using System.Collections.Generic;
+using System.IO;
 
 namespace Pasta_main
 {
     class ContaProporcao : Conta
     {
-        public ContaProporcao (float q, float v)
+        TextWriter sw = new StreamWriter("C:\\Test.txt", true);
+        public ContaProporcao (float q, float v, string n)
         {
             quantidadeBebida = q;
             valorBebida = v;
+            nomeBar= n;
             valorTotalMesa = quantidadeBebida * valorBebida;
+            sw.WriteLine(nomeBar + valorBebida);
+            sw.Close();
         } 
         
         // Função que calcula e retorna a proporção da quantidade bebida
