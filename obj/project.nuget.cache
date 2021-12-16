@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "33mgQ6gOpEwYH3hyp4is5I3IPNvUmoEbElB4Nv2aoNMmK5vYPtJUXV/DJKc2iirRko9Z2fSdWvcK7+OcKPo7eg==",
+  "dgSpecHash": "W466mkVNiYpBvN6o6oqP5dvnEV1ZdkqdssXnZTBk/3CEhPvE89MlXRzec6rQoygl3PiWSTRUtbt+3EBnkvynHQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\coding\\projetos\\Rachar conta\\Pasta main.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/luiz/Projetos/trabalho1-POO/Pasta main.csproj",
+  "expectedPackageFiles": [
+    "/home/luiz/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/home/luiz/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/home/luiz/.nuget/packages/microsoft.netcore.app.host.linux-x64/5.0.13/microsoft.netcore.app.host.linux-x64.5.0.13.nupkg.sha512"
+  ],
   "logs": []
 }

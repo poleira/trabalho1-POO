@@ -1,48 +1,64 @@
-C:\Users\ASUS\Desktop\coding\projeto app rachar conta\Pasta main\bin\Debug\net5.0\Pasta main.exe
-C:\Users\ASUS\Desktop\coding\projeto app rachar conta\Pasta main\bin\Debug\net5.0\Pasta main.deps.json
-C:\Users\ASUS\Desktop\coding\projeto app rachar conta\Pasta main\bin\Debug\net5.0\Pasta main.runtimeconfig.json
-C:\Users\ASUS\Desktop\coding\projeto app rachar conta\Pasta main\bin\Debug\net5.0\Pasta main.runtimeconfig.dev.json
-C:\Users\ASUS\Desktop\coding\projeto app rachar conta\Pasta main\bin\Debug\net5.0\Pasta main.dll
-C:\Users\ASUS\Desktop\coding\projeto app rachar conta\Pasta main\bin\Debug\net5.0\ref\Pasta main.dll
-C:\Users\ASUS\Desktop\coding\projeto app rachar conta\Pasta main\bin\Debug\net5.0\Pasta main.pdb
-C:\Users\ASUS\Desktop\coding\projeto app rachar conta\Pasta main\obj\Debug\net5.0\Pasta main.csproj.AssemblyReference.cache
-C:\Users\ASUS\Desktop\coding\projeto app rachar conta\Pasta main\obj\Debug\net5.0\Pasta main.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ASUS\Desktop\coding\projeto app rachar conta\Pasta main\obj\Debug\net5.0\Pasta main.AssemblyInfoInputs.cache
-C:\Users\ASUS\Desktop\coding\projeto app rachar conta\Pasta main\obj\Debug\net5.0\Pasta main.AssemblyInfo.cs
-C:\Users\ASUS\Desktop\coding\projeto app rachar conta\Pasta main\obj\Debug\net5.0\Pasta main.csproj.CoreCompileInputs.cache
-C:\Users\ASUS\Desktop\coding\projeto app rachar conta\Pasta main\obj\Debug\net5.0\Pasta main.dll
-C:\Users\ASUS\Desktop\coding\projeto app rachar conta\Pasta main\obj\Debug\net5.0\ref\Pasta main.dll
-C:\Users\ASUS\Desktop\coding\projeto app rachar conta\Pasta main\obj\Debug\net5.0\Pasta main.pdb
-C:\Users\ASUS\Desktop\coding\projeto app rachar conta\Pasta main\obj\Debug\net5.0\Pasta main.genruntimeconfig.cache
-C:\Users\luizl\Projetos\trabalho1-POO\bin\Debug\net5.0\Pasta main.exe
-C:\Users\luizl\Projetos\trabalho1-POO\bin\Debug\net5.0\Pasta main.deps.json
-C:\Users\luizl\Projetos\trabalho1-POO\bin\Debug\net5.0\Pasta main.runtimeconfig.json
-C:\Users\luizl\Projetos\trabalho1-POO\bin\Debug\net5.0\Pasta main.runtimeconfig.dev.json
-C:\Users\luizl\Projetos\trabalho1-POO\bin\Debug\net5.0\Pasta main.dll
-C:\Users\luizl\Projetos\trabalho1-POO\bin\Debug\net5.0\ref\Pasta main.dll
-C:\Users\luizl\Projetos\trabalho1-POO\bin\Debug\net5.0\Pasta main.pdb
-C:\Users\luizl\Projetos\trabalho1-POO\obj\Debug\net5.0\Pasta main.csproj.AssemblyReference.cache
-C:\Users\luizl\Projetos\trabalho1-POO\obj\Debug\net5.0\Pasta main.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\luizl\Projetos\trabalho1-POO\obj\Debug\net5.0\Pasta main.AssemblyInfoInputs.cache
-C:\Users\luizl\Projetos\trabalho1-POO\obj\Debug\net5.0\Pasta main.AssemblyInfo.cs
-C:\Users\luizl\Projetos\trabalho1-POO\obj\Debug\net5.0\Pasta main.csproj.CoreCompileInputs.cache
-C:\Users\luizl\Projetos\trabalho1-POO\obj\Debug\net5.0\Pasta main.dll
-C:\Users\luizl\Projetos\trabalho1-POO\obj\Debug\net5.0\ref\Pasta main.dll
-C:\Users\luizl\Projetos\trabalho1-POO\obj\Debug\net5.0\Pasta main.pdb
-C:\Users\luizl\Projetos\trabalho1-POO\obj\Debug\net5.0\Pasta main.genruntimeconfig.cache
-C:\Users\ASUS\Desktop\coding\projetos\Rachar conta\bin\Debug\net5.0\Pasta main.exe
-C:\Users\ASUS\Desktop\coding\projetos\Rachar conta\bin\Debug\net5.0\Pasta main.deps.json
-C:\Users\ASUS\Desktop\coding\projetos\Rachar conta\bin\Debug\net5.0\Pasta main.runtimeconfig.json
-C:\Users\ASUS\Desktop\coding\projetos\Rachar conta\bin\Debug\net5.0\Pasta main.runtimeconfig.dev.json
-C:\Users\ASUS\Desktop\coding\projetos\Rachar conta\bin\Debug\net5.0\Pasta main.dll
-C:\Users\ASUS\Desktop\coding\projetos\Rachar conta\bin\Debug\net5.0\ref\Pasta main.dll
-C:\Users\ASUS\Desktop\coding\projetos\Rachar conta\bin\Debug\net5.0\Pasta main.pdb
-C:\Users\ASUS\Desktop\coding\projetos\Rachar conta\obj\Debug\net5.0\Pasta main.csproj.AssemblyReference.cache
-C:\Users\ASUS\Desktop\coding\projetos\Rachar conta\obj\Debug\net5.0\Pasta main.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ASUS\Desktop\coding\projetos\Rachar conta\obj\Debug\net5.0\Pasta main.AssemblyInfoInputs.cache
-C:\Users\ASUS\Desktop\coding\projetos\Rachar conta\obj\Debug\net5.0\Pasta main.AssemblyInfo.cs
-C:\Users\ASUS\Desktop\coding\projetos\Rachar conta\obj\Debug\net5.0\Pasta main.csproj.CoreCompileInputs.cache
-C:\Users\ASUS\Desktop\coding\projetos\Rachar conta\obj\Debug\net5.0\Pasta main.dll
-C:\Users\ASUS\Desktop\coding\projetos\Rachar conta\obj\Debug\net5.0\ref\Pasta main.dll
-C:\Users\ASUS\Desktop\coding\projetos\Rachar conta\obj\Debug\net5.0\Pasta main.pdb
-C:\Users\ASUS\Desktop\coding\projetos\Rachar conta\obj\Debug\net5.0\Pasta main.genruntimeconfig.cache
+C:/Users/ASUS/Desktop/coding/projeto app rachar conta/Pasta main/bin/Debug/net5.0/Pasta main.exe
+C:/Users/ASUS/Desktop/coding/projeto app rachar conta/Pasta main/bin/Debug/net5.0/Pasta main.deps.json
+C:/Users/ASUS/Desktop/coding/projeto app rachar conta/Pasta main/bin/Debug/net5.0/Pasta main.runtimeconfig.json
+C:/Users/ASUS/Desktop/coding/projeto app rachar conta/Pasta main/bin/Debug/net5.0/Pasta main.runtimeconfig.dev.json
+C:/Users/ASUS/Desktop/coding/projeto app rachar conta/Pasta main/bin/Debug/net5.0/Pasta main.dll
+C:/Users/ASUS/Desktop/coding/projeto app rachar conta/Pasta main/bin/Debug/net5.0/ref/Pasta main.dll
+C:/Users/ASUS/Desktop/coding/projeto app rachar conta/Pasta main/bin/Debug/net5.0/Pasta main.pdb
+C:/Users/ASUS/Desktop/coding/projeto app rachar conta/Pasta main/obj/Debug/net5.0/Pasta main.csproj.AssemblyReference.cache
+C:/Users/ASUS/Desktop/coding/projeto app rachar conta/Pasta main/obj/Debug/net5.0/Pasta main.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/ASUS/Desktop/coding/projeto app rachar conta/Pasta main/obj/Debug/net5.0/Pasta main.AssemblyInfoInputs.cache
+C:/Users/ASUS/Desktop/coding/projeto app rachar conta/Pasta main/obj/Debug/net5.0/Pasta main.AssemblyInfo.cs
+C:/Users/ASUS/Desktop/coding/projeto app rachar conta/Pasta main/obj/Debug/net5.0/Pasta main.csproj.CoreCompileInputs.cache
+C:/Users/ASUS/Desktop/coding/projeto app rachar conta/Pasta main/obj/Debug/net5.0/Pasta main.dll
+C:/Users/ASUS/Desktop/coding/projeto app rachar conta/Pasta main/obj/Debug/net5.0/ref/Pasta main.dll
+C:/Users/ASUS/Desktop/coding/projeto app rachar conta/Pasta main/obj/Debug/net5.0/Pasta main.pdb
+C:/Users/ASUS/Desktop/coding/projeto app rachar conta/Pasta main/obj/Debug/net5.0/Pasta main.genruntimeconfig.cache
+C:/Users/luizl/Projetos/trabalho1-POO/bin/Debug/net5.0/Pasta main.exe
+C:/Users/luizl/Projetos/trabalho1-POO/bin/Debug/net5.0/Pasta main.deps.json
+C:/Users/luizl/Projetos/trabalho1-POO/bin/Debug/net5.0/Pasta main.runtimeconfig.json
+C:/Users/luizl/Projetos/trabalho1-POO/bin/Debug/net5.0/Pasta main.runtimeconfig.dev.json
+C:/Users/luizl/Projetos/trabalho1-POO/bin/Debug/net5.0/Pasta main.dll
+C:/Users/luizl/Projetos/trabalho1-POO/bin/Debug/net5.0/ref/Pasta main.dll
+C:/Users/luizl/Projetos/trabalho1-POO/bin/Debug/net5.0/Pasta main.pdb
+C:/Users/luizl/Projetos/trabalho1-POO/obj/Debug/net5.0/Pasta main.csproj.AssemblyReference.cache
+C:/Users/luizl/Projetos/trabalho1-POO/obj/Debug/net5.0/Pasta main.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/luizl/Projetos/trabalho1-POO/obj/Debug/net5.0/Pasta main.AssemblyInfoInputs.cache
+C:/Users/luizl/Projetos/trabalho1-POO/obj/Debug/net5.0/Pasta main.AssemblyInfo.cs
+C:/Users/luizl/Projetos/trabalho1-POO/obj/Debug/net5.0/Pasta main.csproj.CoreCompileInputs.cache
+C:/Users/luizl/Projetos/trabalho1-POO/obj/Debug/net5.0/Pasta main.dll
+C:/Users/luizl/Projetos/trabalho1-POO/obj/Debug/net5.0/ref/Pasta main.dll
+C:/Users/luizl/Projetos/trabalho1-POO/obj/Debug/net5.0/Pasta main.pdb
+C:/Users/luizl/Projetos/trabalho1-POO/obj/Debug/net5.0/Pasta main.genruntimeconfig.cache
+C:/Users/ASUS/Desktop/coding/projetos/Rachar conta/bin/Debug/net5.0/Pasta main.exe
+C:/Users/ASUS/Desktop/coding/projetos/Rachar conta/bin/Debug/net5.0/Pasta main.deps.json
+C:/Users/ASUS/Desktop/coding/projetos/Rachar conta/bin/Debug/net5.0/Pasta main.runtimeconfig.json
+C:/Users/ASUS/Desktop/coding/projetos/Rachar conta/bin/Debug/net5.0/Pasta main.runtimeconfig.dev.json
+C:/Users/ASUS/Desktop/coding/projetos/Rachar conta/bin/Debug/net5.0/Pasta main.dll
+C:/Users/ASUS/Desktop/coding/projetos/Rachar conta/bin/Debug/net5.0/ref/Pasta main.dll
+C:/Users/ASUS/Desktop/coding/projetos/Rachar conta/bin/Debug/net5.0/Pasta main.pdb
+C:/Users/ASUS/Desktop/coding/projetos/Rachar conta/obj/Debug/net5.0/Pasta main.csproj.AssemblyReference.cache
+C:/Users/ASUS/Desktop/coding/projetos/Rachar conta/obj/Debug/net5.0/Pasta main.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/ASUS/Desktop/coding/projetos/Rachar conta/obj/Debug/net5.0/Pasta main.AssemblyInfoInputs.cache
+C:/Users/ASUS/Desktop/coding/projetos/Rachar conta/obj/Debug/net5.0/Pasta main.AssemblyInfo.cs
+C:/Users/ASUS/Desktop/coding/projetos/Rachar conta/obj/Debug/net5.0/Pasta main.csproj.CoreCompileInputs.cache
+C:/Users/ASUS/Desktop/coding/projetos/Rachar conta/obj/Debug/net5.0/Pasta main.dll
+C:/Users/ASUS/Desktop/coding/projetos/Rachar conta/obj/Debug/net5.0/ref/Pasta main.dll
+C:/Users/ASUS/Desktop/coding/projetos/Rachar conta/obj/Debug/net5.0/Pasta main.pdb
+C:/Users/ASUS/Desktop/coding/projetos/Rachar conta/obj/Debug/net5.0/Pasta main.genruntimeconfig.cache
+/home/luiz/Projetos/trabalho1-POO/bin/Debug/net5.0/Pasta main
+/home/luiz/Projetos/trabalho1-POO/bin/Debug/net5.0/Pasta main.deps.json
+/home/luiz/Projetos/trabalho1-POO/bin/Debug/net5.0/Pasta main.runtimeconfig.json
+/home/luiz/Projetos/trabalho1-POO/bin/Debug/net5.0/Pasta main.runtimeconfig.dev.json
+/home/luiz/Projetos/trabalho1-POO/bin/Debug/net5.0/Pasta main.dll
+/home/luiz/Projetos/trabalho1-POO/bin/Debug/net5.0/ref/Pasta main.dll
+/home/luiz/Projetos/trabalho1-POO/bin/Debug/net5.0/Pasta main.pdb
+/home/luiz/Projetos/trabalho1-POO/obj/Debug/net5.0/Pasta main.csproj.AssemblyReference.cache
+/home/luiz/Projetos/trabalho1-POO/obj/Debug/net5.0/Pasta main.GeneratedMSBuildEditorConfig.editorconfig
+/home/luiz/Projetos/trabalho1-POO/obj/Debug/net5.0/Pasta main.AssemblyInfoInputs.cache
+/home/luiz/Projetos/trabalho1-POO/obj/Debug/net5.0/Pasta main.AssemblyInfo.cs
+/home/luiz/Projetos/trabalho1-POO/obj/Debug/net5.0/Pasta main.csproj.CoreCompileInputs.cache
+/home/luiz/Projetos/trabalho1-POO/obj/Debug/net5.0/Pasta main.dll
+/home/luiz/Projetos/trabalho1-POO/obj/Debug/net5.0/ref/Pasta main.dll
+/home/luiz/Projetos/trabalho1-POO/obj/Debug/net5.0/Pasta main.pdb
+/home/luiz/Projetos/trabalho1-POO/obj/Debug/net5.0/Pasta main.genruntimeconfig.cache
