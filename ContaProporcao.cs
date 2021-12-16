@@ -7,14 +7,17 @@ namespace Pasta_main
     class ContaProporcao : Conta
     {
         TextWriter sw = new StreamWriter("C:\\Test.txt", true);
+        TextWriter sq = new StreamWriter("C:\\Test2.txt", true);
         public ContaProporcao (float q, float v, string n)
         {
             quantidadeBebida = q;
             valorBebida = v;
             nomeBar= n;
             valorTotalMesa = quantidadeBebida * valorBebida;
-            sw.WriteLine(nomeBar + valorBebida);
+            sw.WriteLine(nomeBar);
+            sq.WriteLine(valorBebida);
             sw.Close();
+            sq.Close();
         } 
         
         // Função que calcula e retorna a proporção da quantidade bebida

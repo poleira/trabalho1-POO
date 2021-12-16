@@ -3,13 +3,13 @@ using System.Collections.Generic;
 
 namespace Pasta_main{
 class Conta{
-        public int somaBebeuQnts;
-        public float valorTotalMesa;
-        public float quantidadeBebida;
-        public float valorBebida;
-        public string nomeBar;
+        protected int somaBebeuQnts; //mudar public
+        protected float valorTotalMesa;
+        protected float quantidadeBebida;
+        protected float valorBebida;
+        protected string nomeBar;
          
-        public List<Pessoa> lp = new List<Pessoa>();
+        protected List<Pessoa> lp = new List<Pessoa>();
 
         // Função que adiciona a Pessoa na Lista de Pessoas
         public void adicionarPessoa(Pessoa p)

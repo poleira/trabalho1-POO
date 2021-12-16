@@ -9,7 +9,7 @@ namespace Pasta_main
         {
            
             // Criando a Conta
-            ContaIgual conta1 = new ContaIgual (10, 10, "buana");
+            ContaIgual conta1 = new ContaIgual (10, 9, "buana");
 
             // Criando os bebuns
             Pessoa player1 = new Pessoa ("gustavo",10);
@@ -46,6 +46,11 @@ namespace Pasta_main
             // Retornando quanto cada um deve pagar
             conta2.contaProporcional();
 
+            // Brincando com arquivos.
+            
+            Banco.BarMaisBarato();
+            
+            
             
     
             
