@@ -12,10 +12,17 @@ O Objetivo desse programa é calcular a proporção de uma conta de bar e exibir
 
 - Adicionada Classe Banco, responsável por fazer o controle da lista de bares, verificar qual tem o menor preço da bebida e retornar em forma de Arquivo.
 
+## Classe Conta Proporção
+
+Classe responsável por fazer a proporção do quanto cada usuário bebeu e retornar o quanto cada um bebeu.
+
+## Classe Conta Igual
+
+Classe responsável por fazer a divisão do valor total e retornar para todos os usuários o mesmo valor a ser pago.
+
 ## Como Utilizar
 
 Necessário sdk 5.0
-
 
 ```
 sudo apt-get update; \
@@ -24,6 +31,11 @@ sudo apt-get update; \
   sudo apt-get install -y dotnet-sdk-5.0
 ```
 
+Para executar o código:
+
+```
+dotnet run
+```
 
 ## Desenvolvedores
 
