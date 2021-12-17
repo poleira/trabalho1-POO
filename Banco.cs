@@ -11,9 +11,10 @@ public static class Banco{
     private static int posicao;
     private static string strr;
     
+    // Cria um arquivo de lista de Bares, onde cada linha é um bar
     public static void listaBares()
     {    
-    StreamReader sr = new StreamReader("C:\\Test.txt");
+    StreamReader sr = new StreamReader("C:\\Bares.txt");
     line = sr.ReadLine();
     
     while (line != null)
@@ -24,9 +25,10 @@ public static class Banco{
         sr.Close();
     }
 
+    // Cria um arquivo de lista de Valores das Bebidas, onde cada linha é um preço
     public static void listaPrecoBares()
     {    
-    StreamReader sr = new StreamReader("C:\\Test2.txt");
+    StreamReader sr = new StreamReader("C:\\Bebidas.txt");
     line = sr.ReadLine();
     
     while (line != null)
@@ -37,9 +39,10 @@ public static class Banco{
         sr.Close();
     }
 
+    // Função para obter a posição no arquivo de Bebida
     private static int getPosicao()
     {
-        StreamReader sr = new StreamReader("C:\\Test2.txt");
+        StreamReader sr = new StreamReader("C:\\Bebidas.txt");
 
         while (!sr.EndOfStream)
         {  
@@ -53,14 +56,14 @@ public static class Banco{
             c++;
         }
         
-        return posicao;
         sr.Close();
+        return posicao;
     }
     
-
+    // Função para obter o menor valor de Bebida
     private static double getMenorBreja()
     {
-        StreamReader sr = new StreamReader("C:\\Test2.txt");
+        StreamReader sr = new StreamReader("C:\\Bebidas.txt");
 
         while (!sr.EndOfStream)
         {
@@ -71,13 +74,14 @@ public static class Banco{
             }
         }
         
-        return menor;
         sr.Close();
+        return menor;
     }
 
+    // Função que retorna ao Usuário o Bar que tem a Bebida mais Barata
     public static void BarMaisBarato()
     {
-        StreamReader sr = new StreamReader("C:\\Test.txt");
+        StreamReader sr = new StreamReader("C:\\Bares.txt");
         int testee = getPosicao();
 
         for (int i = 0; i <= testee; i++){

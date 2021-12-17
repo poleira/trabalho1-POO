@@ -4,11 +4,15 @@ using System.IO;
 
 namespace Pasta_main
 {
+    // Conta Igual tem a Herança da Classe Conta
     class ContaIgual : Conta
     {
-        TextWriter sw = new StreamWriter("C:\\Test.txt", true);
-        TextWriter sq = new StreamWriter("C:\\Test2.txt", true);
+        // Criando os Arquivos
+        TextWriter sw = new StreamWriter("C:\\Bares.txt", true);
+        TextWriter sq = new StreamWriter("C:\\Bebidas.txt", true);
         private int somapessoas;
+
+        // Construtor
         public ContaIgual (float q, float v, string n)
         {
             quantidadeBebida = q;
@@ -20,6 +24,8 @@ namespace Pasta_main
             sw.Close();
             sq.Close();
         } 
+        
+        // Função que soma a quantidade de pessoas que estão bebendo na mesa  
         public int somarPessoas()
         {
             foreach (Pessoa p in lp)
@@ -29,6 +35,7 @@ namespace Pasta_main
             return somapessoas;
         }
 
+        // Função que divide a conta igualmente e retorna o mesmo valor para cada usuário pagar
         public void contaIgualmente()
         {           
             double totaal = valorTotalMesa / somarPessoas();

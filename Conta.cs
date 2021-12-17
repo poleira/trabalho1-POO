@@ -3,7 +3,8 @@ using System.Collections.Generic;
 
 namespace Pasta_main{
 class Conta{
-        protected int somaBebeuQnts; //mudar public
+        // Atributos da Classe Pai Conta
+        protected int somaBebeuQnts; 
         protected float valorTotalMesa;
         protected float quantidadeBebida;
         protected float valorBebida;

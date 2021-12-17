@@ -4,10 +4,15 @@ using System.IO;
 
 namespace Pasta_main
 {
+
+    // Conta Igual tem a Herança da Classe Conta
     class ContaProporcao : Conta
     {
-        TextWriter sw = new StreamWriter("C:\\Test.txt", true);
-        TextWriter sq = new StreamWriter("C:\\Test2.txt", true);
+        // Criação dos Arquivos
+        TextWriter sw = new StreamWriter("C:\\Bares.txt", true);
+        TextWriter sq = new StreamWriter("C:\\Bebidas.txt", true);
+
+        // Construtor
         public ContaProporcao (float q, float v, string n)
         {
             quantidadeBebida = q;
